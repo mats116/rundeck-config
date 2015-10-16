@@ -2,7 +2,7 @@
   executionEnabled: true
   id: 4cf24be3-453a-4465-add5-f8d01b1eb02b
   loglevel: INFO
-  name: test2
+  name: hoge
   scheduleEnabled: true
   sequence:
     commands:
